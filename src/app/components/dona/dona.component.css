@@ -1,0 +1,14 @@
+.col-md-8 {
+    background-color: crimson;
+    height: 500px;
+    position: relative;
+}
+
+.col-md-4 {
+    background-color: aquamarine;
+}
+
+.dona {
+    position: absolute;
+    size: 5px;
+}
